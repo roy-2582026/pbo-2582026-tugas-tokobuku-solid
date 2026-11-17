@@ -1,3 +1,4 @@
+// Menghitung total pembayaran dengan tambahan biaya transfer Rp2.500.
 public class Transfer implements MetodeBayar {
 
     @Override
