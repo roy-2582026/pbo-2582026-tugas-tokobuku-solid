@@ -1,3 +1,4 @@
+// Memberikan diskon sebesar 2% untuk pembayaran E-Wallet.
 public class EWallet implements MetodeBayar {
 
     @Override
